@@ -1,1 +1,1 @@
-# SAGA-pattern-implementation
+# saga-choreography-pattern
